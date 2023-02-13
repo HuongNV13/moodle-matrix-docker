@@ -3,6 +3,7 @@
 /certs/*.srl
 /certs/*.crt
 /certs/*.csr
+/certs/*.ext
 /keycloak/data/h2/*.db
 .env
 .DS_Store
