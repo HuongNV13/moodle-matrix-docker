@@ -30,7 +30,7 @@ If you haven’t already customised your hosts file the line should look like:<b
 
 
 ## SSL Setup
-Next make the self signed certs so we can run Moodle and associated services over ssl/tls. This is required to setup SSO.<br/>
+Next make the self signed certs so we can run associated services over ssl/tls. This is required to setup SSO.<br/>
 There is a helper script that creates the root CA and dev certificates and keys.
 
 Change to the directory of the script first:<br/>
